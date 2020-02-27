@@ -1,0 +1,17 @@
+{
+  "name": "xgg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-router": "^8.0.8",
+    "log4js": "^6.1.2",
+    "mysql2": "^2.1.0",
+    "node-schedule": "^1.3.2",
+    "sequelize": "^5.21.5"
+  }
+}
